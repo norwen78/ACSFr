@@ -58,10 +58,10 @@
 影响炼器时的速度，炼器产品的质量，炼器成功率以及炼器品阶加成。	Affects speed, product quality, success rate and tier bonus of artifact crafting.
 影响制药速度，治疗外门伤的疗效等	Affects the speed of creating medicine and their effectiveness of treating physical wounds.
 影响制作物品速度，制作物品品质等。	Affects speed and product quality when creating items.
-春	Spring 
-夏	Summer 
-秋	Autumn 
-冬	Winter 
+春	Printemps
+夏	Eté
+秋	Automne
+冬	Hiver
 思	Si 
 长孙	Zhangsun 
 山	Shan 
